@@ -1,0 +1,24 @@
+{
+  "name": "lambda-dynamodb-elastic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dynamodb-stream-elasticsearch": "^2.4.1",
+    "elasticsearch": "^15.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enartia/lambda-dynamodb-elastic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enartia/lambda-dynamodb-elastic/issues"
+  },
+  "homepage": "https://github.com/Enartia/lambda-dynamodb-elastic#readme"
+}
